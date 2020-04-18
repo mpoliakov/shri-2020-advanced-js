@@ -1,1 +1,0 @@
-# shri-2020-advanced-js
